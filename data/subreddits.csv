@@ -1,0 +1,646 @@
+industry,subreddit,type
+business and industrial,science,links - high
+business and industrial,technology,links - high
+business and industrial,askscience,self
+business and industrial,business,links - high
+business and industrial,minimalism,links - low
+business and industrial,math,self
+business and industrial,web_design,links - low
+business and industrial,netsec,links - high
+business and industrial,entrepreneur,self
+business and industrial,sysadmin,self
+business and industrial,engineering,self
+business and industrial,beermoney,self
+business and industrial,hardware,links - high
+business and industrial,cyberpunk,links - medium
+business and industrial,interiordesign,links - medium
+business and industrial,economy,links - high
+business and industrial,chemistry,self
+business and industrial,architecture,links - medium
+business and industrial,energy,links - high
+business and industrial,medicine,links - medium
+business and industrial,electronics,links - low
+business and industrial,androiddev,self
+business and industrial,marketing,self
+business and industrial,engineeringporn,links - medium
+business and industrial,smallbusiness,self
+business and industrial,renewableenergy,links - high
+business and industrial,kickstarter,links - medium
+business and industrial,wordpress,self
+business and industrial,seo,self
+business and industrial,freelance,self
+business and industrial,socialmedia,self
+business and industrial,welding,self
+business and industrial,neuroscience,links - medium
+business and industrial,database,links - medium
+business and industrial,austrian_economics,links - high
+business and industrial,consulting,self
+business and industrial,webmarketing,self
+business and industrial,hwstartups,links - low
+business and industrial,bigseo,links - low
+business and industrial,businessschool,self
+business and industrial,bigdata,links - high
+business and industrial,digitalnomad,self
+business and industrial,academiceconomics,self
+business and industrial,dailytechnewsshow,links - high
+business and industrial,businesshub,links - high
+business and industrial,businessintelligence,links - low
+business and industrial,machinists,links - low
+business and industrial,hvac,links - low
+business and industrial,dotcom,links - medium
+business and industrial,publicrelations,links - low
+business and industrial,venturecapital,links - high
+business and industrial,oracle,links - medium
+business and industrial,sap,links - medium
+business and industrial,adgeek,links - high
+business and industrial,indiebiz,self
+business and industrial,ladybusiness,links - low
+business and industrial,manufacturing,links - low
+computers and electronics,gaming,links - low
+computers and electronics,television,links - high
+computers and electronics,photoshopbattles,imgur
+computers and electronics,futurology,links - high
+computers and electronics,gadgets,links - high
+computers and electronics,programming,links - high
+computers and electronics,geek,links - high
+computers and electronics,buildapc,self
+computers and electronics,pcmasterrace,imgur
+computers and electronics,apple,links - low
+computers and electronics,talesfromtechsupport,self
+computers and electronics,photography,links - high
+computers and electronics,wow,links - low
+computers and electronics,linux,links - high
+computers and electronics,learnprogramming,self
+computers and electronics,truegaming,self
+computers and electronics,zelda,links - low
+computers and electronics,fantheories,self
+computers and electronics,grandtheftautov,links - medium
+computers and electronics,gamedev,self
+computers and electronics,pcgaming,links - high
+computers and electronics,xboxone,links - medium
+computers and electronics,ps3,links - low
+computers and electronics,tech,links - high
+computers and electronics,androidapps,links - medium
+computers and electronics,mechanicalkeyboards,links - medium
+computers and electronics,xbox360,links - low
+computers and electronics,patientgamers,self
+computers and electronics,apphookup,links - high
+computers and electronics,androidgaming,links - low
+computers and electronics,ipad,links - low
+computers and electronics,audiophile,links - low
+computers and electronics,oculus,links - medium
+computers and electronics,vita,links - medium
+computers and electronics,chromecast,self
+computers and electronics,gamingpc,links - medium
+computers and electronics,headphones,self
+computers and electronics,shittyrobots,links - high
+computers and electronics,software,links - low
+computers and electronics,bestofnetflix,links - high
+computers and electronics,machinelearning,links - medium
+computers and electronics,3dprinting,links - medium
+computers and electronics,gaming4gamers,links - medium
+computers and electronics,robotics,links - high
+computers and electronics,nexus7,self
+computers and electronics,microsoft,links - high
+computers and electronics,youtube,self
+computers and electronics,iosgaming,links - low
+computers and electronics,kindle,links - low
+computers and electronics,spotify,self
+computers and electronics,androidquestions,self
+computers and electronics,leagueoflegendsmeta,links - low
+computers and electronics,transhuman,links - high
+computers and electronics,nexus4,links - low
+computers and electronics,windows8,self
+computers and electronics,homelab,self
+computers and electronics,suggestalaptop,self
+computers and electronics,surface,links - medium
+computers and electronics,artificial,links - high
+computers and electronics,askelectronics,self
+computers and electronics,hometheater,self
+computers and electronics,hardwareswap,self
+computers and electronics,applehelp,self
+computers and electronics,gamingnews,links - high
+computers and electronics,analog,imgur
+computers and electronics,gamingsuggestions,self
+computers and electronics,tablets,links - high
+computers and electronics,technews,links - high
+computers and electronics,automate,links - high
+computers and electronics,controllablewebcams,links - high
+computers and electronics,macsetups,imgur
+computers and electronics,videography,links - medium
+computers and electronics,kindlefreebies,links - high
+computers and electronics,amazingtechnology,links - high
+computers and electronics,retrogaming,links - medium
+computers and electronics,htpc,links - low
+computers and electronics,snes,links - medium
+computers and electronics,htcone,self
+computers and electronics,diyaudio,links - medium
+computers and electronics,xbox,links - low
+computers and electronics,retrobattlestations,links - low
+computers and electronics,audio,self
+computers and electronics,androidwear,links - medium
+computers and electronics,motox,self
+computers and electronics,dvdcollection,links - high
+computers and electronics,wii,self
+computers and electronics,ios8,links - low
+computers and electronics,futuristparty,links - medium
+computers and electronics,vintageaudio,self
+computers and electronics,galaxys5,links - low
+computers and electronics,gotg,links - medium
+computers and electronics,galaxynote3,self
+computers and electronics,computervision,links - low
+computers and electronics,cameras,links - low
+computers and electronics,toycameras,links - low
+computers and electronics,nook,self
+computers and electronics,audiojerk,links - medium
+computers and electronics,amateurphotography,imgur
+computers and electronics,nexus6,links - low
+computers and electronics,aihub,links - medium
+computers and electronics,hackedgadgets,links - high
+computers and electronics,galaxynote4,self
+finance and insurance,personalfinance,self
+finance and insurance,frugal,links - low
+finance and insurance,economics,links - high
+finance and insurance,bitcoin,links - medium
+finance and insurance,investing,self
+finance and insurance,finance,links - medium
+finance and insurance,financialindependence,self
+finance and insurance,realestate,self
+finance and insurance,accounting,self
+finance and insurance,bitcoinmarkets,self
+finance and insurance,stockmarket,links - medium
+finance and insurance,thrifty,links - high
+finance and insurance,financialplanning,links - high
+finance and insurance,algorithms,self
+finance and insurance,personalfinancecanada,self
+finance and insurance,behavioraleconomics,links - high
+finance and insurance,securityanalysis,links - high
+finance and insurance,wallstreetbets,self
+finance and insurance,tax,self
+finance and insurance,financialcareers,self
+finance and insurance,studentloans,self
+finance and insurance,portfolios,self
+finance and insurance,insurance,self
+finance and insurance,internationalbusiness,links - medium
+finance and insurance,money,links - high
+finance and insurance,banking,self
+finance and insurance,econpapers,links - high
+finance and insurance,mba,self
+finance and insurance,commercialrealestate,links - low
+finance and insurance,quant,self
+finance and insurance,invest,links - high
+finance and insurance,credit,self
+finance and insurance,cfa,self
+finance and insurance,econbooks,links - high
+finance and insurance,quantfinance,links - high
+finance and insurance,debt,self
+finance and insurance,bogleheads,links - medium
+general,dataisbeautiful,links - high
+general,mapporn,imgur
+general,iwanttolearn,self
+general,foodforthought,links - high
+general,nostalgia,imgur
+general,lgbt,links - high
+general,damnthatsinteresting,links - high
+general,theydidthemath,self
+general,infographics,links - high
+general,worldevents,links - high
+general,inthenews,links - high
+general,palatecleanser,imgur
+home and garden,diy,imgur
+home and garden,food,imgur
+home and garden,foodporn,imgur
+home and garden,cooking,self
+home and garden,roomporn,imgur
+home and garden,eatcheapandhealthy,imgur
+home and garden,beer,links - medium
+home and garden,recipes,self
+home and garden,slowcooking,self
+home and garden,homebrewing,links - low
+home and garden,gardening,imgur
+home and garden,woodworking,imgur
+home and garden,somethingimade,imgur
+home and garden,foodhacks,links - medium
+home and garden,coffee,self
+home and garden,askculinary,self
+home and garden,budgetfood,imgur
+home and garden,baking,imgur
+home and garden,simpleliving,links - medium
+home and garden,tea,links - low
+home and garden,eatsandwiches,imgur
+home and garden,tinyhouses,links - medium
+home and garden,crafts,links - medium
+home and garden,cheap_meals,links - medium
+home and garden,vegan,links - low
+home and garden,nutrition,self
+home and garden,scotch,imgur
+home and garden,homestead,links - medium
+home and garden,homeimprovement,self
+home and garden,pizza,links - low
+home and garden,vegetarian,links - medium
+home and garden,tonightsdinner,imgur
+home and garden,hiking,imgur
+home and garden,knitting,links - low
+home and garden,vegrecipes,links - high
+home and garden,breadit,imgur
+home and garden,botanicalporn,imgur
+home and garden,bbq,self
+home and garden,wine,links - high
+home and garden,beerporn,imgur
+home and garden,permaculture,links - medium
+home and garden,cocktails,links - low
+home and garden,bacon,links - medium
+home and garden,ramen,links - low
+home and garden,houseporn,imgur
+home and garden,hunting,imgur
+home and garden,bourbon,links - medium
+home and garden,spicy,links - low
+home and garden,bonsai,links - medium
+home and garden,mycology,imgur
+home and garden,declutter,links - low
+home and garden,healthyfood,links - medium
+home and garden,naturegifs,links - medium
+home and garden,canning,links - low
+home and garden,smoking,links - low
+home and garden,52weeksofcooking,imgur
+home and garden,whatsthisplant,imgur
+home and garden,fromscratch,links - medium
+home and garden,weather,links - high
+home and garden,beekeeping,links - low
+home and garden,metalworking,links - low
+home and garden,aquaponics,links - low
+home and garden,cookingforbeginners,links - medium
+home and garden,fixit,self
+home and garden,designmyroom,links - low
+home and garden,meat,links - low
+home and garden,farming,links - medium
+home and garden,beertrade,self
+home and garden,charcuterie,links - medium
+home and garden,backyardchickens,self
+home and garden,mead,links - low
+home and garden,botany,imgur
+home and garden,climate,links - high
+home and garden,homegym,self
+home and garden,crazystairs,links - low
+home and garden,livingofftheland,links - high
+home and garden,indoorgarden,links - medium
+home and garden,grilling,links - medium
+home and garden,bento,imgur
+home and garden,steak,imgur
+home and garden,guerrillagardening,links - medium
+home and garden,homeowners,self
+home and garden,quilting,imgur
+home and garden,urbanfarming,links - medium
+home and garden,electricians,imgur
+home and garden,toolporn,imgur
+home and garden,appetizers,links - high
+home and garden,succulents,imgur
+home and garden,landscaping,self
+home and garden,7dollardinners,links - low
+home and garden,winemaking,links - low
+home and garden,recipeclub,self
+home and garden,roasting,self
+home and garden,budgetveggie,links - medium
+home and garden,pottery,imgur
+home and garden,flowers,imgur
+home and garden,masonjars,links - medium
+home and garden,cookmesomething,self
+home and garden,cider,self
+home and garden,dessert,links - high
+home and garden,homesteaddit,links - high
+home and garden,cheesemaking,self
+home and garden,yard,self
+home and garden,plumbing,links - low
+home and garden,urbangardening,links - low
+home and garden,tools,self
+home and garden,orchids,imgur
+home and garden,invasivespecies,links - high
+home and garden,lawncare,self
+home and garden,recycling,links - high
+home and garden,ciderporn,links - low
+home and garden,berries,links - low
+home and garden,condiments,links - high
+internet and telecom,internetisbeautiful,links - high
+internet and telecom,android,links - high
+internet and telecom,compsci,links - medium
+internet and telecom,webdev,links - medium
+internet and telecom,techsupport,links - high
+internet and telecom,javascript,links - medium
+internet and telecom,coding,links - high
+internet and telecom,networking,self
+internet and telecom,windowsphone,self
+internet and telecom,java,links - medium
+internet and telecom,reverseengineering,links - high
+internet and telecom,technewstoday,links - high
+internet and telecom,softwaregore,imgur
+internet and telecom,usenet,links - low
+internet and telecom,css,links - medium
+internet and telecom,iosprogramming,links - low
+internet and telecom,tinycode,links - high
+internet and telecom,malware,links - high
+internet and telecom,dotnet,links - medium
+internet and telecom,frontend,links - medium
+internet and telecom,datahoarder,links - low
+internet and telecom,powershell,links - low
+internet and telecom,24hoursupport,self
+internet and telecom,clojure,links - medium
+internet and telecom,asktechnology,self
+internet and telecom,realtech,links - high
+internet and telecom,nokia,links - medium
+internet and telecom,mobile,links - high
+internet and telecom,nocontract,self
+internet and telecom,freewareindex,links - low
+internet and telecom,pickanandroidforme,self
+internet and telecom,dailyscripts,self
+internet and telecom,intel,links - low
+jobs and education,fitness,self
+jobs and education,writing,links - low
+jobs and education,physics,links - medium
+jobs and education,design,links - medium
+jobs and education,awwducational,links - high
+jobs and education,literature,links - high
+jobs and education,cogsci,links - high
+jobs and education,universityofreddit,self
+jobs and education,productivity,links - medium
+jobs and education,startups,self
+jobs and education,jobs,links - low
+jobs and education,graphic_design,links - medium
+jobs and education,filmmakers,links - medium
+jobs and education,selfimprovement,links - low
+jobs and education,education,links - high
+jobs and education,audioengineering,self
+jobs and education,engineeringstudents,self
+jobs and education,anthropology,links - high
+jobs and education,askengineers,self
+jobs and education,cscareerquestions,self
+jobs and education,photoshop,self
+jobs and education,screenwriting,self
+jobs and education,learnpython,self
+jobs and education,getstudying,self
+jobs and education,advancedfitness,links - medium
+jobs and education,askphilosophy,self
+jobs and education,geology,links - low
+jobs and education,teachers,self
+jobs and education,motivation,links - medium
+jobs and education,statistics,links - low
+jobs and education,college,self
+jobs and education,nursing,links - medium
+jobs and education,howtohack,links - low
+jobs and education,medicalschool,links - low
+jobs and education,design_critiques,self
+jobs and education,cablemanagement,self
+jobs and education,resumes,links - low
+jobs and education,advertising,links - medium
+jobs and education,findapath,self
+jobs and education,lawschool,self
+jobs and education,gradschool,self
+jobs and education,getemployed,links - medium
+jobs and education,learnjavascript,self
+jobs and education,talesfromcallcenters,self
+jobs and education,premed,self
+jobs and education,acting,links - low
+jobs and education,theatre,links - medium
+jobs and education,tefl,self
+jobs and education,computergraphics,links - medium
+jobs and education,programminghorror,self
+jobs and education,navy,links - medium
+jobs and education,careerguidance,self
+jobs and education,asksciencediscussion,self
+jobs and education,vfx,links - high
+jobs and education,askhistory,links - low
+jobs and education,pharmacy,links - low
+jobs and education,aerospace,links - low
+jobs and education,firefighting,links - low
+jobs and education,autism,links - high
+jobs and education,talesfromthepharmacy,self
+jobs and education,audiopost,self
+jobs and education,studentnurse,links - low
+jobs and education,emergencymedicine,links - medium
+jobs and education,gradadmissions,self
+jobs and education,massage,self
+jobs and education,cseducation,links - high
+jobs and education,globalhealth,links - high
+jobs and education,iwantoutjobs,links - low
+jobs and education,itcareerquestions,self
+jobs and education,physicaltherapy,links - medium
+jobs and education,optometry,links - low
+jobs and education,occupationaltherapy,self
+jobs and education,residency,links - low
+jobs and education,interviewfauxyou,links - low
+jobs and education,nonprofit_jobs,links - medium
+jobs and education,rehabtherapy,links - low
+occasions and gifts,aww,imgur
+occasions and gifts,malefashionadvice,links - low
+occasions and gifts,relationships,self
+occasions and gifts,shutupandtakemymoney,links - high
+occasions and gifts,parenting,self
+occasions and gifts,secretsanta,links - high
+occasions and gifts,dealsreddit,links - high
+occasions and gifts,dating_advice,self
+occasions and gifts,daddit,links - low
+occasions and gifts,random_acts_of_amazon,imgur
+occasions and gifts,halloween,links - low
+occasions and gifts,babybumps,self
+occasions and gifts,weddingplanning,imgur
+occasions and gifts,mommit,links - low
+occasions and gifts,wedding,links - low
+occasions and gifts,beyondthebump,self
+occasions and gifts,raisingkids,links - medium
+occasions and gifts,love,links - medium
+occasions and gifts,christmas,links - low
+occasions and gifts,santashelpers,self
+occasions and gifts,randomactsofchristmas,links - low
+occasions and gifts,predaddit,self
+occasions and gifts,tryingforababy,self
+occasions and gifts,adoption,self
+occasions and gifts,gifts,links - low
+occasions and gifts,cutekids,links - low
+occasions and gifts,singleparents,self
+occasions and gifts,weddingsunder10k,links - low
+occasions and gifts,toys,links - medium
+occasions and gifts,pumpkins,links - low
+occasions and gifts,buyingforbaby,links - low
+occasions and gifts,weddingphotography,self
+occasions and gifts,weddingdress,links - low
+occasions and gifts,cautiousbb,self
+retailers & general merchandise,movies,links - high
+retailers & general merchandise,woweconomy,self
+retailers & general merchandise,music,links - low
+retailers & general merchandise,books,links - high
+retailers & general merchandise,gamedeals,links - high
+retailers & general merchandise,loseit,self
+retailers & general merchandise,scifi,links - low
+retailers & general merchandise,makeupaddiction,imgur
+retailers & general merchandise,starwars,links - medium
+retailers & general merchandise,harrypotter,links - low
+retailers & general merchandise,entertainment,links - high
+retailers & general merchandise,talesfromretail,links - high
+retailers & general merchandise,buyitforlife,links - low
+retailers & general merchandise,running,links - low
+retailers & general merchandise,bicycling,links - low
+retailers & general merchandise,guitar,self
+retailers & general merchandise,frugalmalefashion,links - medium
+retailers & general merchandise,skincareaddiction,links - low
+retailers & general merchandise,batman,links - low
+retailers & general merchandise,southpark,links - low
+retailers & general merchandise,meditation,self
+retailers & general merchandise,health,links - high
+retailers & general merchandise,gamernews,links - high
+retailers & general merchandise,fitmeals,links - medium
+retailers & general merchandise,femalefashionadvice,self
+retailers & general merchandise,dogs,links - low
+retailers & general merchandise,boardgames,links - low
+retailers & general merchandise,bodybuilding,links - low
+retailers & general merchandise,designporn,links - low
+retailers & general merchandise,paleo,self
+retailers & general merchandise,marvel,links - low
+retailers & general merchandise,vinyl,links - low
+retailers & general merchandise,malelifestyle,links - medium
+retailers & general merchandise,xxfitness,self
+retailers & general merchandise,watches,self
+retailers & general merchandise,efreebies,links - high
+retailers & general merchandise,booksuggestions,self
+retailers & general merchandise,coupons,links - high
+retailers & general merchandise,abrathatfits,links - low
+retailers & general merchandise,bass,self
+retailers & general merchandise,shouldibuythisgame,self
+retailers & general merchandise,piano,links - medium
+retailers & general merchandise,talesfromyourserver,self
+retailers & general merchandise,fixedgearbicycle,links - low
+retailers & general merchandise,scuba,links - medium
+retailers & general merchandise,fountainpens,links - low
+retailers & general merchandise,alcohol,links - low
+retailers & general merchandise,cycling,self
+retailers & general merchandise,bikeporn,imgur
+retailers & general merchandise,frugalfemalefashion,links - medium
+retailers & general merchandise,insidegaming,links - low
+retailers & general merchandise,gundeals,links - high
+retailers & general merchandise,pipetobacco,links - medium
+retailers & general merchandise,bicycletouring,links - low
+retailers & general merchandise,painting,links - low
+retailers & general merchandise,deals,links - medium
+retailers & general merchandise,computers,links - low
+retailers & general merchandise,knifeclub,imgur
+retailers & general merchandise,cinematography,links - medium
+retailers & general merchandise,triathlon,links - low
+retailers & general merchandise,rba,self
+retailers & general merchandise,free,self
+retailers & general merchandise,talesfromthecustomer,self
+retailers & general merchandise,flyfishing,imgur
+retailers & general merchandise,swords,links - low
+retailers & general merchandise,mtgfinance,links - low
+retailers & general merchandise,teenmfa,self
+retailers & general merchandise,coins,links - low
+retailers & general merchandise,kettlebell,self
+retailers & general merchandise,glocks,imgur
+retailers & general merchandise,nerf,links - medium
+retailers & general merchandise,guitarporn,links - low
+retailers & general merchandise,fastfood,links - medium
+retailers & general merchandise,bmx,links - low
+retailers & general merchandise,billiards,links - low
+retailers & general merchandise,ak47,links - low
+retailers & general merchandise,cyclocross,links - medium
+retailers & general merchandise,motocross,links - medium
+retailers & general merchandise,equestrian,links - medium
+retailers & general merchandise,actionfigures,links - low
+retailers & general merchandise,retailporn,imgur
+travel and tourism,travel,links - low
+travel and tourism,cityporn,links - medium
+travel and tourism,campingandhiking,imgur
+travel and tourism,urbanexploration,links - medium
+travel and tourism,linguistics,links - medium
+travel and tourism,backpacking,links - low
+travel and tourism,languagelearning,links - low
+travel and tourism,iwantout,self
+travel and tourism,fishing,links - low
+travel and tourism,camping,links - low
+travel and tourism,learnjapanese,links - low
+travel and tourism,newzealand,links - high
+travel and tourism,winterporn,imgur
+travel and tourism,skiing,links - medium
+travel and tourism,nature,links - high
+travel and tourism,solotravel,links - medium
+travel and tourism,french,self
+travel and tourism,outdoors,links - high
+travel and tourism,sailing,links - low
+travel and tourism,kayaking,links - low
+travel and tourism,shoestring,links - low
+travel and tourism,spanish,links - low
+travel and tourism,learnspanish,links - low
+travel and tourism,ilivein,self
+travel and tourism,korean,self
+travel and tourism,bouldering,links - low
+travel and tourism,couchsurfing,links - low
+travel and tourism,russian,links - low
+travel and tourism,german,links - low
+travel and tourism,alpinism,links - medium
+travel and tourism,latin,links - low
+travel and tourism,adventures,links - medium
+travel and tourism,spelunky,links - low
+travel and tourism,roadtrip,self
+travel and tourism,nationalgeographic,links - high
+travel and tourism,turkey,links - high
+travel and tourism,wwoof,self
+travel and tourism,hitchhiking,links - low
+travel and tourism,chinese,self
+travel and tourism,mountaineering,links - medium
+travel and tourism,expats,links - low
+travel and tourism,learn_arabic,self
+travel and tourism,portuguese,links - low
+travel and tourism,italianlearning,links - low
+travel and tourism,learndutch,links - low
+travel and tourism,trailguides,self
+travel and tourism,travelpartners,self
+vehicles,everymanshouldknow,links - high
+vehicles,cars,links - low
+vehicles,motorcycles,imgur
+vehicles,carporn,links - low
+vehicles,justrolledintotheshop,imgur
+vehicles,autos,links - low
+vehicles,subaru,links - low
+vehicles,bmw,links - low
+vehicles,jeep,imgur
+vehicles,mechanicadvice,self
+vehicles,cartalk,self
+vehicles,autodetailing,links - low
+vehicles,volkswagen,imgur
+vehicles,teslamotors,self
+vehicles,trucks,links - low
+vehicles,4x4,links - low
+vehicles,honda,imgur
+vehicles,mustang,links - low
+vehicles,drifting,links - low
+vehicles,projectcar,links - low
+vehicles,motorsports,links - high
+vehicles,vandwellers,links - low
+vehicles,thewholecar,imgur
+vehicles,selfdrivingcars,links - high
+vehicles,harley,links - low
+vehicles,porsche,links - medium
+vehicles,exoticspotting,imgur
+vehicles,miata,imgur
+vehicles,usercars,links - low
+vehicles,nissan,links - low
+vehicles,ford,links - low
+vehicles,blacksmithing,links - low
+vehicles,mazda,links - low
+vehicles,toyota,links - low
+vehicles,volvo,links - high
+vehicles,transit,links - high
+vehicles,battlewagon,imgur
+vehicles,mini,links - low
+vehicles,fixxit,self
+vehicles,mercedes_benz,links - low
+vehicles,automotivetraining,links - low
+vehicles,askashittymechanic,self
+vehicles,whatcarshouldibuy,self
+vehicles,chevy,links - low
+vehicles,bobbers,imgur
+vehicles,saab,links - low
+vehicles,mitsubishi,links - low
+vehicles,bikebuilders,links - low
+vehicles,corvette,links - low
+vehicles,trucking,links - low
+vehicles,landrover,imgur
+vehicles,lexus,links - low
+vehicles,pontiac,links - low
