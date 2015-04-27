@@ -1,0 +1,72 @@
+\begin{thebibliography}{10}
+
+\bibitem{siege}
+750 popular subreddits, categorized by industry and submission type.
+\newblock \url{http://www.siegemedia.com/popular-subreddits-by-industry}.
+\newblock Accessed: 2015-2-1.
+
+\bibitem{Bakshy}
+Eytan Bakshy, Jake~M. Hofman, Winter~A. Mason, and Duncan~J. Watts.
+\newblock Everyone's an influencer: Quantifying influence on twitter.
+\newblock In {\em Proceedings of the Fourth ACM International Conference on Web
+  Search and Data Mining}, WSDM '11, pages 65--74, New York, NY, USA, 2011.
+  ACM.
+
+\bibitem{Gomez}
+Vicen\c{c} G\'{o}mez, Andreas Kaltenbrunner, and Vicente L\'{o}pez.
+\newblock Statistical analysis of the social network and discussion threads in
+  slashdot.
+\newblock In {\em Proceedings of the 17th International Conference on World
+  Wide Web}, WWW '08, pages 645--654, New York, NY, USA, 2008. ACM.
+
+\bibitem{Han}
+Jiawei Han, Micheline Kamber, and Jian Pei.
+\newblock {\em Data Mining: Concepts and Techniques}.
+\newblock Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 3rd edition,
+  2011.
+
+\bibitem{Jamali}
+Salman Jamali and Huzefa Rangwala.
+\newblock Digging digg: Comment mining, popularity prediction, and social
+  network analysis.
+\newblock In {\em Proceedings of the 2009 International Conference on Web
+  Information Systems and Mining}, WISM '09, pages 32--38, Washington, DC, USA,
+  2009. IEEE Computer Society.
+
+\bibitem{Lee}
+Jong~Gun Lee, Sue Moon, and Kav{\'e} Salamatian.
+\newblock Modeling and predicting the popularity of online contents with cox
+  proportional hazard regression model.
+\newblock {\em Neurocomput.}, 76(1):134--145, January 2012.
+
+\bibitem{Meinhart}
+Clemens Meinhart.
+\newblock {Studying User Submissions and Content on Reddit}.
+\newblock Master's thesis, Graz University of Technology, Austria, 2014.
+
+\bibitem{Rowe}
+Matthew Rowe, Sofia Angeletou, and Harith Alani.
+\newblock Predicting discussions on the social semantic web.
+\newblock In {\em Proceedings of the 8th Extended Semantic Web Conference on
+  The Semanic Web: Research and Applications - Volume Part II}, ESWC'11, pages
+  405--420, Berlin, Heidelberg, 2011. Springer-Verlag.
+
+\bibitem{Singer}
+Philipp Singer, Fabian Fl\"{o}ck, Clemens Meinhart, Elias Zeitfogel, and Markus
+  Strohmaier.
+\newblock Evolution of reddit: From the front page of the internet to a
+  self-referential community?
+\newblock In {\em Proceedings of the Companion Publication of the 23rd
+  International Conference on World Wide Web Companion}, WWW Companion '14,
+  pages 517--522, Republic and Canton of Geneva, Switzerland, 2014.
+  International World Wide Web Conferences Steering Committee.
+
+\bibitem{weninger}
+Tim Weninger, Xihao~Avi Zhu, and Jiawei Han.
+\newblock An exploration of discussion threads in social news sites: A case
+  study of the reddit community.
+\newblock In {\em Proceedings of the 2013 IEEE/ACM International Conference on
+  Advances in Social Networks Analysis and Mining}, ASONAM '13, pages 579--583,
+  New York, NY, USA, 2013. ACM.
+
+\end{thebibliography}
